@@ -1,0 +1,27 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=1cb21613_002D856b_002D4227_002D9e0f_002Dc5a4c4496d6b/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="CalculateExpression_ReturnsOkResponse_WhenValidExpressionGiven" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
+  &lt;TestAncestor&gt;
+    &lt;TestId&gt;xUnit::410707A6-AA14-43B6-8C16-D63FC5E78E1E::net7.0::UnitTests.Controllers.ExpressionCalculationControllerTests.CalculateExpression_ReturnsOkResponse_WhenValidExpressionGiven&lt;/TestId&gt;
+  &lt;/TestAncestor&gt;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=9dfa302f_002Dc888_002D4d7d_002Db465_002D01ba27f3a928/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="WhenTwoValuesAreAddedTogether_ThenTheCorrectResultIsReturned" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
+  &lt;Or&gt;
+    &lt;TestAncestor&gt;
+      &lt;TestId&gt;xUnit::410707A6-AA14-43B6-8C16-D63FC5E78E1E::net7.0::UnitTests.Services.ExpressionParsingServiceTests.WhenStrategySpecified_AndValidOperatorGiven_ThenExpressionIsParsed_AndCorrectValueReturned&lt;/TestId&gt;
+      &lt;TestId&gt;xUnit::410707A6-AA14-43B6-8C16-D63FC5E78E1E::net7.0::UnitTests.Services.ExpressionStrategies.AddOperatorStrategyTests.WhenTwoValuesAreAddedTogether_ThenTheCorrectResultIsReturned&lt;/TestId&gt;
+      &lt;TestId&gt;xUnit::410707A6-AA14-43B6-8C16-D63FC5E78E1E::net7.0::UnitTests.Services.ExpressionStrategies.DivideOperatorStrategyTests.WhenTwoValuesAreMultiplied_ThenTheCorrectResultIsReturned&lt;/TestId&gt;
+      &lt;TestId&gt;xUnit::410707A6-AA14-43B6-8C16-D63FC5E78E1E::net7.0::UnitTests.Services.ExpressionStrategies.MultiplyOperatorStrategyTests.WhenTwoValuesAreMultiplied_ThenTheCorrectResultIsReturned&lt;/TestId&gt;
+      &lt;TestId&gt;xUnit::410707A6-AA14-43B6-8C16-D63FC5E78E1E::net7.0::UnitTests.Services.ExpressionStrategies.SubtractOperatorStrategyTests.WhenTwoValuesAreSubtracted_ThenTheCorrectResultIsReturned&lt;/TestId&gt;
+      &lt;TestId&gt;xUnit::410707A6-AA14-43B6-8C16-D63FC5E78E1E::net7.0::UnitTests.Services.ExpressionCalculationServiceTests&lt;/TestId&gt;
+      &lt;TestId&gt;xUnit::410707A6-AA14-43B6-8C16-D63FC5E78E1E::net7.0::UnitTests.Factories.OperatorStrategyFactoryTests.CreateOperatorStrategies_ReturnsStrategyDictionary_WithCorrectStrategies&lt;/TestId&gt;
+      &lt;TestId&gt;xUnit::410707A6-AA14-43B6-8C16-D63FC5E78E1E::net7.0::UnitTests.Controllers.ExpressionCalculationControllerTests.CalculateExpression_ReturnsOkResponse_WhenValidExpressionGiven&lt;/TestId&gt;
+    &lt;/TestAncestor&gt;
+    &lt;ProjectFile&gt;410707A6-AA14-43B6-8C16-D63FC5E78E1E/d:Services/d:ExpressionStrategies/f:AddOperatorStrategyTests.cs&lt;/ProjectFile&gt;
+  &lt;/Or&gt;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=ee984d86_002Da009_002D40d6_002Da0c7_002Dd6581de1bcb5/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="CalculateExpression_ReturnsOkResponse_WhenValidExpressionGiven #2" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
+  &lt;TestAncestor&gt;
+    &lt;TestId&gt;xUnit::410707A6-AA14-43B6-8C16-D63FC5E78E1E::net7.0::UnitTests.Controllers.ExpressionCalculationControllerTests.CalculateExpression_ReturnsOkResponse_WhenValidExpressionGiven&lt;/TestId&gt;
+    &lt;TestId&gt;xUnit::410707A6-AA14-43B6-8C16-D63FC5E78E1E::net7.0::UnitTests.Controllers.ExpressionCalculationControllerTests.CalculateExpression_ReturnsBadResponse_WhenInValidExpressionGiven&lt;/TestId&gt;
+  &lt;/TestAncestor&gt;
+&lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>
